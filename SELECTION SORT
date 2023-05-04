@@ -13,8 +13,8 @@ int main() {
          swap = arr[i];
          arr[i] = arr[position];
          arr[position] = swap;
-      }
-   }
+     }
+  }
    for (i = 0; i < n; i++)
       printf("%d\t", arr[i]);
    return 0;
