@@ -31,4 +31,4 @@ int main()
      printf("%d\n", array[c]);
 
   return 0;
-}
+ }
